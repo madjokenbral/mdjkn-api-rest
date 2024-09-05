@@ -1,0 +1,24 @@
+{
+  "name": "mdjkn-api-rest",
+  "version": "1.0.0",
+  "description": "api rest with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madjokenbral/mdjkn-api-rest.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node"
+  ],
+  "author": "madjokenbral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madjokenbral/mdjkn-api-rest/issues"
+  },
+  "homepage": "https://github.com/madjokenbral/mdjkn-api-rest#readme"
+}
